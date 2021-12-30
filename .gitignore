@@ -1,3 +1,4 @@
 # Eclude these files 
 
 .DS_Store
+*/.DS_Store
